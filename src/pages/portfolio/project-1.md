@@ -2,8 +2,6 @@
 title: Veritas Athena
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: >-
-  images/Keyboard_Full_Assembly_2021-Jan-08_09-35-10PM-000_CustomizedView19346521096_png_alpha.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
